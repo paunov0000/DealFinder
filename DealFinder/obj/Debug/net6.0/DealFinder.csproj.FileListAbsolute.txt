@@ -1,0 +1,14 @@
+C:\Users\mitko\source\repos\DealFinder\DealFinder\bin\Debug\net6.0\DealFinder.exe
+C:\Users\mitko\source\repos\DealFinder\DealFinder\bin\Debug\net6.0\DealFinder.deps.json
+C:\Users\mitko\source\repos\DealFinder\DealFinder\bin\Debug\net6.0\DealFinder.runtimeconfig.json
+C:\Users\mitko\source\repos\DealFinder\DealFinder\bin\Debug\net6.0\DealFinder.dll
+C:\Users\mitko\source\repos\DealFinder\DealFinder\bin\Debug\net6.0\DealFinder.pdb
+C:\Users\mitko\source\repos\DealFinder\DealFinder\obj\Debug\net6.0\DealFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitko\source\repos\DealFinder\DealFinder\obj\Debug\net6.0\DealFinder.AssemblyInfoInputs.cache
+C:\Users\mitko\source\repos\DealFinder\DealFinder\obj\Debug\net6.0\DealFinder.AssemblyInfo.cs
+C:\Users\mitko\source\repos\DealFinder\DealFinder\obj\Debug\net6.0\DealFinder.csproj.CoreCompileInputs.cache
+C:\Users\mitko\source\repos\DealFinder\DealFinder\obj\Debug\net6.0\DealFinder.dll
+C:\Users\mitko\source\repos\DealFinder\DealFinder\obj\Debug\net6.0\refint\DealFinder.dll
+C:\Users\mitko\source\repos\DealFinder\DealFinder\obj\Debug\net6.0\DealFinder.pdb
+C:\Users\mitko\source\repos\DealFinder\DealFinder\obj\Debug\net6.0\DealFinder.genruntimeconfig.cache
+C:\Users\mitko\source\repos\DealFinder\DealFinder\obj\Debug\net6.0\ref\DealFinder.dll
